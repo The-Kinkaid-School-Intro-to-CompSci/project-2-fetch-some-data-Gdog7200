@@ -1,0 +1,15 @@
+{
+    "players": [
+        {"id": "1","Name": "Griffin Terrill", "Handicap": "16", "Grade":"11th", "Experience":"Intermediate"},
+        {"id": "2","Name": "Timur Balametov", "Handicap": "9", "Grade":"11th", "Experience":"Intermediate"},
+        {"id": "3","Name": "Gus Griggs", "Handicap": "10", "Grade": "11th", "Experience":"Intermediate"},
+        {"id": "4","Name": "John Klevenhagen", "Handicap": "25", "Grade":"11th", "Experience":"Beginner"},
+        {"id": "5","Name": "Ethan Jefferson", "Handicap": "27", "Grade":"11th", "Experience":"Beginner"},
+        {"id": "6","Name": "Baird Snyder", "Handicap": "18", "Grade":"9th", "Experience":"Intermediate"},
+        {"id": "7","Name": "Gray Davis", "Handicap": "10", "Grade": "10th", "Experience":"Intermediate"},
+        {"id": "8","Name": "Liam Sharpe", "Handicap": "8", "Grade": "10th", "Experience":"Intermediate"},
+        {"id": "9","Name": "Miller Crosswell", "Handicap": "7", "Grade":"10th", "Experience":"Expert"},
+        {"id": "10","Name": "George Gayle", "Handicap": "4", "Grade": "9th", "Experience":"Expert"},
+        {"id": "11","Name": "Andrew Aron", "Handicap": "3", "Grade": "10th", "Experience":"Expert"}
+    ]
+}
